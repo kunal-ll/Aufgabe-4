@@ -1,8 +1,9 @@
-# Git-Workshop Aufgabe-2
+# Git-Workshop Aufgabe 4
 
-**GGit Workshop: Kooperative Erstellung eines fiktiven Abspanns**
+**Git Workshop: Kooperative Erstellung eines fiktiven Abspanns**
 
 #### Aufgabenstellung
+Erstellt gemeinsam einen fiktiven Abspann (wie für einen Film) in der Datei abspann.txt. Jeder Teilnehmer trägt abwechselnd neue Rollen oder Namen ein und führt regelmäßig Commits durch, um die Änderungen ins zentrale Repository zu integrieren.
 
 1. **Repository Initialisierung:**
    - Ein Teilnehmer erstellt ein neues privates Git-Repository auf GitHub und fügt eine Datei namens `abspann.txt` hinzu
