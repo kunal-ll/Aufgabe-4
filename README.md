@@ -68,9 +68,9 @@ etc.
     ```bash
     git add abspann.txt
     git commit -m "Added role: Regisseur"
-    git pull origin main
+    git pull 
     # Auflösen von möglichen Konflikten
-    git push origin main
+    git push 
     ```
 
 </details>
