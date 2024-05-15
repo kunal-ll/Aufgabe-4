@@ -4,8 +4,7 @@
 
 #### Aufgabenstellung
 Erstellt gemeinsam einen fiktiven Abspann (wie für einen Film) in der Datei abspann.txt. Jeder Teilnehmer trägt abwechselnd neue Rollen oder Namen ein und führt regelmäßig Commits durch, um die Änderungen ins zentrale Repository zu integrieren. Die Zeilen dieses Abspanns
-sollten aussehen wie <Rolle>: <Name>
-- Ein Beispiel: Stellvertretender Regissuer: John Doe
+sollten aussehen wie Rolle: Name z.B. Regissuer: John Doe.
 
 1. **Repository Initialisierung:**
    - Ein Teilnehmer erstellt ein neues privates Git-Repository auf GitHub und fügt eine Datei namens `abspann.txt` hinzu
